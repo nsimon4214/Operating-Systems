@@ -1,3 +1,7 @@
 One of the functions of an operating system is the print controlling function. This function helps the device keep track
 of what is being printed. Say you print more than one thing at a time, this function will enusre that the pages printed
 will be in order and seperate, not just a jumbled mess of whatever you're printing.
+
+Another function of an operating system is data security. This function ensure that the data on a computer is safe from
+ouside use. Sometimes data can be used for illegal activites or modified or deleted, this function ensures data is protected
+from that.
