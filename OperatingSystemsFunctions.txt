@@ -5,3 +5,7 @@ will be in order and seperate, not just a jumbled mess of whatever you're printi
 Another function of an operating system is data security. This function ensure that the data on a computer is safe from
 ouside use. Sometimes data can be used for illegal activites or modified or deleted, this function ensures data is protected
 from that.
+
+A third function of an operating system is the loading and execution function. Two things need to happen in order to run
+a program on a computer, it needs to be loaded onto the computer and then executed. This function allows for both to happen
+so that programs can be run on the computer.
